@@ -218,10 +218,8 @@ footer h3 {
 .footer__links a {
   margin-bottom: 15px;
 }
+
 #features {
-  padding: 0px 50px;
-}
-.features {
   background-color: #fff;
   padding: 115px 60px;
 
@@ -482,11 +480,8 @@ footer h3 {
     flex-direction: column;
   }
 
-  #features {
-    padding: auto;;
-  }
 
-  .features {
+  #features {
     padding: 50px 10px;
   }
 
